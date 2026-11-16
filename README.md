@@ -3,19 +3,19 @@ Repository for the Start's Extensions Mod
 
 # Changelog
 ## Version 0.3
--Added the Beginning and the End
--Added the Void Tourched Blade
--Added Tempest Knife
--Added Resolute Tempest Knife
--Added Chill Gale Knife
--Added Blue Hedgehog
--Added Silver Hedgehog
--Added Black Hedgehog
--Added Adamantine Impervium
--Added Dragonsbane
--Added Ender Defender
--Added Golden Goliath
--Added Redstone Riot
--Added Shield of Infinity
--Added Star Shield
+-Added the Beginning and the End<br>
+-Added the Void Tourched Blade<br>
+-Added Tempest Knife<br>
+-Added Resolute Tempest Knife<br>
+-Added Chill Gale Knife<br>
+-Added Blue Hedgehog<br>
+-Added Silver Hedgehog<br>
+-Added Black Hedgehog<br>
+-Added Adamantine Impervium<br>
+-Added Dragonsbane<br>
+-Added Ender Defender<br>
+-Added Golden Goliath<br>
+-Added Redstone Riot<br>
+-Added Shield of Infinity<br>
+-Added Star Shield<br>
 -Added Swordbreaker
