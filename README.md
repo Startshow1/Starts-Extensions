@@ -2,6 +2,18 @@
 Repository for the Start's Extensions Mod
 
 # Changelog
+## Version 0.2
+-Added Hedgehogs<br>
+-Added Fox Armor<br>
+-Added Arctic Fox Armor<br>
+-Added Wolf Armor<br>
+-Added Black Wolf Armor<br>
+_Added MLG Music Disc<br>
+-Added Dagger<br>
+-Added Fang of Frost<br>
+-Added Moon Dagger<br>
+-Added Sheer Dagger<br>
+
 ## Version 0.3
 -Added the Beginning and the End<br>
 -Added the Void Tourched Blade<br>
