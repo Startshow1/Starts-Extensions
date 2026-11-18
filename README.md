@@ -31,3 +31,11 @@ _Added MLG Music Disc<br>
 -Added Shield of Infinity<br>
 -Added Star Shield<br>
 -Added Swordbreaker
+
+## Version 0.4
+-Added Winter Oak and accompanying wood blocks
+-Added Winter Oak Trees
+-Added the Winter Forest
+-Added the Prismarine Gaunlet
+-Added the Glowing Obsidian Gaunlet
+-Added the Golden Gaunlet
