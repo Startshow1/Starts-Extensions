@@ -33,9 +33,9 @@ _Added MLG Music Disc<br>
 -Added Swordbreaker
 
 ## Version 0.4
--Added Winter Oak and accompanying wood blocks
--Added Winter Oak Trees
--Added the Winter Forest
--Added the Prismarine Gaunlet
--Added the Glowing Obsidian Gaunlet
+-Added Winter Oak and accompanying wood blocks<br>
+-Added Winter Oak Trees<br>
+-Added the Winter Forest<br>
+-Added the Prismarine Gaunlet<br>
+-Added the Glowing Obsidian Gaunlet<br>
 -Added the Golden Gaunlet
